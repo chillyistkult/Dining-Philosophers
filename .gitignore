@@ -16,3 +16,12 @@
 *.exe
 *.out
 *.app
+
+#Folder
+Debug/
+
+#Files
+.project
+.cproject
+
+
