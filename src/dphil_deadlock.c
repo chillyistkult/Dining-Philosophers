@@ -1,6 +1,6 @@
 /*
 ==========================================================================================
-Name : driver.c
+Name : dphil_deadlock.c
 Author : Lukas Gruenewald (536059), Benjamin Schuch (533347)
 Version : 1.0
 Copyright : 2014
